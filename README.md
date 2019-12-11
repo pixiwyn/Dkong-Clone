@@ -1,6 +1,6 @@
 ### Dkong-Clone
 
-![dkong](http://images.pixly.io/portfolio/dkongClone.png)
+![dkong](http://images.pixly.io/portfolio/dkongCloneSm.png)
 
 Dkong Clone built w/ PhaserJS
 
