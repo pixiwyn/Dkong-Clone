@@ -5,7 +5,7 @@ const app = express();
 const port = 3000;
 
 app.use('/assets', express.static('assets'));
-app.use('/js', express.static('js'));
+app.use('/src', express.static('src'));
 
 app.get('/', (req, res) => 
     res.sendFile(path.resolve('./index.html'))

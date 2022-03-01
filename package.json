@@ -1,14 +1,18 @@
 {
-  "name": "luigi-bros",
+  "name": "dkong-clone",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "private": true,
+  "author": "Kaitlyn Marshall",
+  "license": "UNLICENSED",
+  "devDependencies": {
     "express": "^4.17.1"
   }
 }
