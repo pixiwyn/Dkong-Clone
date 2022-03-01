@@ -9,5 +9,5 @@ Controls use arrow keys for direction + spacebar to jump.
 1. Clone repository
 2. Install Node.js version 12.0.0 or higher
 3. Install dependencies via `$ npm install`
-4. Run `npm run start`
+4. Run `$ npm run start`
 5. Navigate to http://localhost:3000 and enjoy
